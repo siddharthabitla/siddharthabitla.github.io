@@ -13,4 +13,3 @@ I read a _lot_ of books, philosophy in particular. Love to explore new ideas, ne
 ### Contact me
 
 [bitlasiddhartha@gmail.com](mailto:bitlasiddhartha@gmail.com)
-[siddhartha.bitla@gmail.com](mailto:siddhartha.bitla@gmail.com)
