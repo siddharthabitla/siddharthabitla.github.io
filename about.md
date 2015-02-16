@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm Siddhartha Bitla, done my Master's from [VIT University](http://vit.ac.in) and keenly interested in Open Source projects and research in Machine Learning and Algorithms.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself. 
+A place to include any other types of information that you'd like to include about yourself.
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[bitlasiddhartha@gmail.com](mailto:bitlasiddhartha@gmail.com)
